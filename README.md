@@ -42,8 +42,8 @@ The results represent spatial exposure to mapped flood hazards, not confirmed in
 Flood scenario datasets may differ in geographic coverage. The 350-year scenario has known source-coverage limitations, so comparisons require caution.
 
 ## Project Status
-The 100-year flood exposure map has been completed. Additional scenario maps and portfolio documentation are in progress.
+The GIS analysis and final maps for the 50-year, 100-year, and 350-year flood scenarios have been completed. The project is now in the portfolio documentation and GitHub publication stage, including organizing Python/PyQGIS scripts and documenting data limitations.
 
 ## Author
 Mahsa Baghi
-GIS Analyst | Remote Sensing Specialist
+GIS & Remote Sensing Specialist
