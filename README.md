@@ -36,6 +36,19 @@ The analysis examines three flood scenarios: 50-year, 100-year, and 350-year eve
 | 100-Year | 1,521 | 17.09 km |
 | 350-Year | 607 | 7.01 km |
 
+## Flood Exposure Maps
+
+### 50-Year Flood Scenario
+![Ottawa 50-Year Flood Exposure Map](maps/Ottawa_50yr_Flood_Final_Map.png)
+
+### 100-Year Flood Scenario
+![Ottawa 100-Year Flood Exposure Map](maps/Ottawa_100yr_Flood_Final_Map.png)
+
+### 350-Year Flood Scenario
+![Ottawa 350-Year Flood Exposure Map](maps/Ottawa_350yr_Flood_Final_Map.png)
+
+**Data limitation:** The 350-year flood dataset does not cover all waterways represented in the 100-year scenario. Exposure results are not directly comparable across scenarios.
+
 ## Important Notes
 The results represent spatial exposure to mapped flood hazards, not confirmed infrastructure damage.
 
